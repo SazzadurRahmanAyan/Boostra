@@ -186,3 +186,16 @@ section {
 }
 
 /* Project end */
+
+/* Pricing start */
+
+.pricing i {
+    font-size: 20px;
+    color: var(--primary);
+}
+
+.pricing ul li {
+    margin-top: 8px;
+}
+
+/* Pricing end */
