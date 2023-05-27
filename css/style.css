@@ -33,7 +33,7 @@ img {
     box-shadow: var(--box-shadow);
 }
 
-.navbar .logo {
+.logo {
     width: 160px;
 }
 
@@ -249,3 +249,25 @@ form .form-control {
 }
 
 /* Contact end */
+
+/* footer start */
+
+.footer-top {
+    padding-bottom: 98px;
+    padding: 90px;
+    background-color: var(--dark);
+}
+
+.footer-top a {
+    color: var(--body);
+}
+
+.footer-top a:hover {
+    color: #fff;
+}
+
+.footer-bottom {
+    background-color: #242933;
+}
+
+/* footer end */
